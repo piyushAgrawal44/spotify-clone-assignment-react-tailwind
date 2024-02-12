@@ -64,10 +64,10 @@ const data={
             duration: "3:40",
         },
         {
-            thumbnail: 'https://i.scdn.co/image/ab67616d00001e0239550ce4ccf28a1a4b82a443',
-            name: 'Tested, Approved & Trusted',
-            author: 'Burna Roy',
-            duration: "3:40",
+            thumbnail: 'https://i.scdn.co/image/ab67616d00001e020a78461979d338c59dc737f1',
+            name: 'Toxic (Free Style)',
+            author: 'John Roy',
+            duration: "2:40",
         },
         {
             thumbnail: 'https://i.scdn.co/image/ab67616d00001e0239550ce4ccf28a1a4b82a443',
@@ -76,10 +76,10 @@ const data={
             duration: "3:40",
         },
         {
-            thumbnail: 'https://i.scdn.co/image/ab67616d00001e0239550ce4ccf28a1a4b82a443',
-            name: 'Tested, Approved & Trusted',
-            author: 'Burna Roy',
-            duration: "3:40",
+            thumbnail: 'https://i.scdn.co/image/ab67616d00001e020a78461979d338c59dc737f1',
+            name: 'Toxic (Free Style)',
+            author: 'John Roy',
+            duration: "2:40",
         },
         {
             thumbnail: 'https://i.scdn.co/image/ab67616d00001e0239550ce4ccf28a1a4b82a443',

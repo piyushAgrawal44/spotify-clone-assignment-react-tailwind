@@ -2,7 +2,7 @@ export default function Card(props: any) {
   
     return (
         <>
-            <div className={`top-0 block min-w-[200px]  w-full xm:w-[50%] sm:w-[33%] md:w-[25%] lg:w-[20%] p-2`}>
+            <div className={`top-0 block min-w-[200px]  w-full xm:w-[50%] xm:min-w-[50%] sm:w-[33%] sm:min-w-[33%] md:w-[25%] md:min-w-[25%] lg:w-[20%] lg:min-w-[20%] p-2`}>
                 <div className='relative group overflow-hidden cursor-pointer max-w-full p-3 bg-[#181818] hover:bg-[#282828] rounded-md '>
                     <div className='max-w-full p-3 rounded-md'
                     >

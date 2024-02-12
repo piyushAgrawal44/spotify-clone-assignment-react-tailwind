@@ -27,7 +27,7 @@ export default function Navbar(props: any) {
     <>
 
       <div className={`sticky z-10 ${props.page === 'search' ? 'flex' : 'hidden'} lg:flex top-0  items-center justify-between px-2 py-2 bg-[#000000]`}>
-        <div className={`w-full lg:w-fit flex items-center justify-between gap-2`}>
+        <div className={`w-full lg:w-fit flex items-center justify-between gap-2 px-1`}>
           <div className="text-xl flex items-center justify-between gap-2">
             <span className={`cursor-pointer ${canGoBack ? 'text-white font-bold' : 'text-[#a7a7a7]'}`} onClick={() => {
               navigate(-1);

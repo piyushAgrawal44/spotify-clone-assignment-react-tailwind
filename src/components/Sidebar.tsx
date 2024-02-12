@@ -105,10 +105,8 @@ export default function Sidebar(props: any) {
                     </div>
                   </div>
                 </div>
+                <br />
               </div>
-
-             
-
               
             </div>
           </div>

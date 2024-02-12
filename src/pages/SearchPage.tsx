@@ -80,7 +80,7 @@ export default function SearchPage() {
                                             <div className='flex flex-wrap items-center justify-between'>
                                                 <SectionTitle text="Songs" />
                                             </div>
-                                            <div className='mt-1 relative w-full flex flex-nowrap sm:flex-wrap max-h-[250px] overflow-auto custom_scrollbar'>
+                                            <div className='mt-1 relative w-full flex flex-wrap max-h-[250px] overflow-auto custom_scrollbar'>
                                                 {
                                                     data.songs.map((song, index) => {
                                                         return <div key={index} className='w-full mb-2'>
