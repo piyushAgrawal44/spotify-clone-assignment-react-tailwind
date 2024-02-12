@@ -10,7 +10,7 @@ import BottomCTA from '../components/BottomCTA';
 export default function HomePage() {
     return (
         <>
-            <div className='w-full bg-black text-gray-50 min-h-[calc(100vh-50px)] xm:min-h-screen '>
+            <div className='w-full bg-black text-gray-50 min-h-screen '>
 
 
                 <div className="relative  flex flex-wrap">

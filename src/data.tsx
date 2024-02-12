@@ -1,3 +1,5 @@
+// Data js
+
 const data={
     spotify_playlist: [
         {
@@ -64,7 +66,7 @@ const data={
             duration: "3:40",
         },
         {
-            thumbnail: 'https://i.scdn.co/image/ab67616d00001e020a78461979d338c59dc737f1',
+            thumbnail: 'https://i.scdn.co/image/ab67616d00001e029ea288a3dbc316b15cab5ad0',
             name: 'Toxic (Free Style)',
             author: 'John Roy',
             duration: "2:40",
@@ -76,7 +78,7 @@ const data={
             duration: "3:40",
         },
         {
-            thumbnail: 'https://i.scdn.co/image/ab67616d00001e020a78461979d338c59dc737f1',
+            thumbnail: 'https://i.scdn.co/image/ab67616d00001e029ea288a3dbc316b15cab5ad0',
             name: 'Toxic (Free Style)',
             author: 'John Roy',
             duration: "2:40",

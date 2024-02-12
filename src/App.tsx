@@ -6,13 +6,13 @@ function App() {
 
   return (
     <>
-      <div className="max-w-screen-2xl mx-auto max-h-[calc(100vh-50px)] xm:max-h-screen overflow-y-auto custom_scrollbar">
-      <Router basename='/'>
-        <Routes>
-          <Route  path='/' element={<HomePage />} />
-          <Route  path='/search' element={<SearchPage />} />
-        </Routes>
-      </Router>
+      <div className="max-w-screen-2xl mx-auto max-h-screen overflow-y-auto custom_scrollbar" id="main_id">
+        <Router basename='/'>
+          <Routes>
+            <Route path='/' element={<HomePage />} />
+            <Route path='/search' element={<SearchPage />} />
+          </Routes>
+        </Router>
       </div>
     </>
   )

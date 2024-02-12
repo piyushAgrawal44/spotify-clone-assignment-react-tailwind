@@ -1,8 +1,11 @@
 # Spotify Frontend
 
-This project is a simple Spotify frontend built with React.js and Tailwind CSS. There are 3 pages:  Home page, Search Page, Search result page 
+This project is a Spotify frontend built clone with React.js and Tailwind CSS. I have developed 3 pages:  Home page, Search Page, Search result page. Search result page will be visible when we enter a query in search bar.
 
-Live URL: https://spotify-clone-piyush-agrawal.netlify.app/
+You can see my developed screens inside my_developed_screens_images folder.
+
+## Live URL: 
+https://spotify-clone-piyush-agrawal.netlify.app/
 
 ## Features
 
@@ -16,6 +19,7 @@ Live URL: https://spotify-clone-piyush-agrawal.netlify.app/
 
 - React.js
 - Tailwind CSS
+- Vite js
 - For displaying data I have used data.js file inside src folder
 
 ## Getting Started

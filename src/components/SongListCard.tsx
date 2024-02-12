@@ -4,8 +4,8 @@ export default function SongListCard(props: any) {
             <div className="w-full flex gap-2 justify-between items-center cursor-pointer rounded-md p-2 hover:bg-[#282828] group relative overflow-hidden">
                 <div className="flex items-center gap-2">
                     <div className="relative">
-                        <img src={props.song.thumbnail} className="rounded-md w-[40px]" alt="song" />
-                        <div className="absolute xm:hidden xm:group-hover:flex items-center justify-center w-full h-full  text-2xl top-0 left-0">
+                        <img src={props.song.thumbnail} className="rounded-md shrink-0 w-[40px] max-w-[40px]" alt="song" />
+                        <div className="absolute flex xm:hidden xm:group-hover:flex items-center justify-center w-full h-full text-2xl top-0 left-0 text-gray-50">
                             <i className="bi bi-play-fill"></i>
                         </div>
                     </div>
