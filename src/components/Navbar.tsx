@@ -1,11 +1,11 @@
-import { useLocation, useNavigate, useSearchParams } from "react-router-dom";
+import {  useNavigate } from "react-router-dom";
 import TransparentButton from "./TransparentButton";
 import WhiteButton from "./WhiteButton";
 import { useEffect, useState } from "react";
 
 export default function Navbar(props: any) {
   // const [searchParams] = useSearchParams();
-  const location = useLocation();
+  // const location = useLocation();
   const navigate = useNavigate();
 
   const [userQuery, setUserQuery] = useState('');

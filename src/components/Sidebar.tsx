@@ -1,5 +1,5 @@
-import { useRef, useState } from 'react'
-import { Link, useNavigate } from 'react-router-dom'
+import { useRef } from 'react'
+import { Link } from 'react-router-dom'
 import WhiteButton from './WhiteButton'
 // import quizmingoLogo from '../../images/quizmingo-logo.png';
 export default function Sidebar(props: any) {
