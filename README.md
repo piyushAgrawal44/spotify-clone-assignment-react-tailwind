@@ -1,6 +1,6 @@
 # Spotify Frontend
 
-This project is a Spotify frontend built clone with React.js and Tailwind CSS. I have developed 3 pages:  Home page, Search Page, Search result page. Search result page will be visible when we enter a query in search bar.
+This project is a Spotify frontend clone with React.js and Tailwind CSS. I have developed 3 pages:  Home page, Search Page, Search result page. Search result page will be visible when we enter a query in search bar. FOr good user experience I have added skeleton loader also.
 
 You can see my developed screens inside my_developed_screens_images folder.
 

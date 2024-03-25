@@ -1,4 +1,4 @@
-import {  useNavigate } from "react-router-dom";
+import {  Link, useNavigate } from "react-router-dom";
 import TransparentButton from "./TransparentButton";
 import WhiteButton from "./WhiteButton";
 import { useEffect, useState } from "react";
@@ -49,8 +49,10 @@ export default function Navbar(props: any) {
         </div>
 
         <div className="hidden lg:flex items-center gap-5 ">
-          <TransparentButton text="Sign Up" />
-          <WhiteButton text="Log in" py="py-3" />
+          <Link to={'/signup'} ><TransparentButton text="Sign Up" /></Link>
+          <Link to={'/login'} >
+            <WhiteButton text="Log in" py="py-3" />
+          </Link>
         </div>
       </div>
     </>
