@@ -14,6 +14,7 @@ https://spotify-clone-piyush-agrawal.netlify.app/
 - View search results
 - View artist and album details
 - Optimize code
+- Song upload
 
 ## Technologies Used
 
